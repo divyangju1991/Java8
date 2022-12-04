@@ -1,0 +1,17 @@
+package groupingBy;
+
+/**
+ * 
+ * @author divya
+ *
+ */
+public class Employee {
+	
+	private int id;
+	
+	private String name;
+	
+	private int age;
+	
+	
+}

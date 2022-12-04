@@ -1,0 +1,28 @@
+package groupingBy;
+
+/**
+ * Create a map with key as Age and value as list of employees in that age group
+**/
+public class ListOfEmployeeByAge {
+
+	public static void main(String[] args) {
+		
+		
+		// TODO Auto-generated method stub
+		Employee emp1 = new Employee();
+		emp1.setId(1);
+		emp1.setAge(30);
+		emp1.setName("Divyang");
+		
+		Employee emp2 = new Employee();
+		emp2.setId(2);
+		emp2.setAge(30);
+		emp2.setName("Komal");
+		
+		Employee emp3 = new Employee();
+		emp3.setId(3);
+		emp3.setAge(10);
+		emp3.setName("Krutarth");
+	}
+
+}

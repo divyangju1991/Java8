@@ -46,7 +46,7 @@ public class ListOfEmployeeByAge {
 			System.out.println(entry.getKey() + ", val : "+entry.getValue());	
 		});
 		
-		Map<Integer, Set<Employee>> empMap3 = empList.stream().collect(Collectors.groupingBy(emp -> emp.getAge(), TreeMap::new , Collectors.toSet()));
+		Map<Integer, Set<Employee>> empMap3 = empList.stream().collect(Collectors.groupingBy(emp -> emp.getAge(), TreeMap::map , Collectors.toSet()));
 		System.out.println(empList.toString());
 		empMap3.entrySet().forEach(entry ->{
 			System.out.println(entry.getKey() + ", val : "+entry.getValue());	

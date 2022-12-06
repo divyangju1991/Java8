@@ -1,0 +1,6 @@
+package functional;
+
+@MultiplyInterface
+public interface MultiplyInterface {
+	
+}

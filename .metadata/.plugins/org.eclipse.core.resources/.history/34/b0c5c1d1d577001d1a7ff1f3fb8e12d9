@@ -1,0 +1,12 @@
+package functional;
+
+public class MultiplyImpl implements MultiplyInterface  {
+
+	@Override
+	public int mul(int a, int b) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	
+}

@@ -1,0 +1,22 @@
+package equalsAndHashCode;
+
+class Employee {
+	
+	Integer id;
+	String name;
+	boolean isMale;
+	
+	public Employee(Integer id, String name, boolean isMale){
+		this.id = id;
+		
+	}
+}
+
+public class EqualsAndHashCode {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

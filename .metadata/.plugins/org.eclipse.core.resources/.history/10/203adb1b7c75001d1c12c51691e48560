@@ -1,6 +1,0 @@
-package functional;
-
-@MultiplyInterface
-public interface FunctionalInterface {
-	
-}

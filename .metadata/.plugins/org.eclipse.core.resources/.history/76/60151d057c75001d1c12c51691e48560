@@ -1,6 +1,0 @@
-package functional;
-
-@FunctionalInterface
-public class FunctionalInterface {
-	
-}

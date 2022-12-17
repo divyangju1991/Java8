@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.function.Function;
+import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 import groupingBy.Employee;
@@ -49,8 +50,17 @@ public class NameFrequency {
 		Set<String> names5 = empNames.stream().filter(name -> Collections.frequency(empNames, name) > 1).collect(Collectors.toSet());
 		System.out.println(names5);
 		
+		//Exception in thread "main" java.lang.IllegalStateException: Duplicate key 2
+		List<String> empNames3 = empList.stream().map(emp -> emp.getName()).collect(Collectors.toList());
+		Map<String, Object> map3 = empNames.stream().collect(Collectors.toMap(Function.identity(),
+				name -> Collections.frequency(empNames, name)));
+		System.out.println("empNames3 : "+ empNames3);
 		
-		
+		//Exception in thread "main" java.lang.IllegalStateException: Duplicate key 2
+				Set<String> empNames4 = empList.stream().map(emp -> emp.getName()).collect(Collectors.toSet());
+				Map<String, Object> map4 = empNames4.stream().collect(Collectors.toMap(Function.identity(),
+						name -> Collections.frequency(empNames4, name)));
+				System.out.println("empNames4 : "+ empNames4);
 
 	}
 

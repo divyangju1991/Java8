@@ -1,0 +1,9 @@
+package equalsAndHashCode;
+
+class Employee {
+	
+}
+
+public class TrickyQuestion {
+
+}

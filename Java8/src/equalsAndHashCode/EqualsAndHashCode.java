@@ -21,6 +21,7 @@ class Employee {
 		this.city = city;
 	}
 	
+	/*
 	@Override
 	public boolean equals(Object o){
 		if(this == o)
@@ -40,6 +41,7 @@ class Employee {
 		prime = prime * 31 + id.hashCode();
 		return prime;
 	}
+	*/
 
 	@Override
 	public String toString() {

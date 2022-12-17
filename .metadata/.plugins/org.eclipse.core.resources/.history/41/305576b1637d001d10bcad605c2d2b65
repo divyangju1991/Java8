@@ -1,0 +1,8 @@
+package equalsAndHashCode;
+
+public class TrickyQuestion {
+
+	public static void main(String[] args) {
+		Employee e1 = new Employee();
+	}
+}

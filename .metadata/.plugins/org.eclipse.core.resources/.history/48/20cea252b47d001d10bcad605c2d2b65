@@ -1,0 +1,66 @@
+package generics;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
+
+public class GenericWithCollection {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<Integer> intList = new ArrayList<>();
+		intList.add(1);
+		intList.add(2);
+		
+		List<? extends Number> numbers = new ArrayList<>(intList);
+		System.out.println(numbers);
+		
+		List<Double> doubleList = new ArrayList<>();
+		doubleList.add(1.22);
+		doubleList.add(2.22);
+		
+		numbers = new ArrayList<>(doubleList);
+		System.out.println(numbers);
+		
+		List<Number> numberList = new ArrayList<>();
+		numberList.add(1);
+		numberList.add(2);
+		
+		numbers = new ArrayList<>(numberList);
+		System.out.println(numbers);
+		
+		
+		numberList = new ArrayList<>();
+		numberList.add(1.55);
+		numberList.add(2.66);
+		
+		numbers = new ArrayList<>(numberList);
+		System.out.println(numbers);
+		
+		//numbers.add(1);
+		List<StringBuilder> sb = new ArrayList<>();
+		//sb.add("Divyang");
+		sb.add(new StringBuilder("Komal"));
+		
+		List<? super StringBuilder> s = new ArrayList<>(sb);
+		System.out.println(s);
+		
+		
+		List<String> str = new ArrayList<>();
+		str.add("Divyang");
+		
+		s = new ArrayList<>(str);
+		System.out.println(s);
+		
+		String name = "baeldung";
+		Optional<String> opt = Optional.of(name);
+		System.out.println(opt.get());
+		
+		name = null;
+		Optional<String> opt = Optional.of(name);
+		System.out.println(opt.get());
+		
+
+	}
+
+}

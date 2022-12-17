@@ -38,6 +38,18 @@ public class FIndDuplicateNamesAndUniqueNames {
 		System.out.println("uniqueNames : "+uniqueNames);
 		
 		System.out.println("duplicateNames : "+duplicateNames);
+		
+		List<String> names2 = new ArrayList<>();
+		names2.add("Divyang");
+		names2.add("Divyang");
+		names2.add("Komal");
+		names2.add("Komal");
+		names2.add("Komal");
+		System.out.println(names2);
+
+		List<String> names3 = names2.stream().distinct().collect(Collectors.toList());
+		System.out.println(names3);
+		
 	}
 
 }

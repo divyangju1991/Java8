@@ -1,0 +1,19 @@
+package stream;
+
+public class CommonMatchChaacters {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String s1 = "abc";
+		String s2 = "dcb";
+		
+		String ans = s1.chars()
+						.mapToObj(x -> (char) x)
+						.filter(x -> s2.indexOf(x)>=0)
+						.map(s -> s.toString());
+						.reduce("", String::concat);
+		
+		System.out.println(ans);
+	}
+
+}

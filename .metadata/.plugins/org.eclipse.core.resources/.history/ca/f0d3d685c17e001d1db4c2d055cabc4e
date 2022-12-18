@@ -64,14 +64,9 @@ public class Person implements Cloneable {
 		this.id = id;
 	}
 
-	 public Object clone()
+	 public Object clone() throws CloneNotSupportedException
 	    {
-		 try {
-			 return super.clone();
-		 } catch(CloneNotSupportedException e) {
-			 return this;
-		 }
-	        
+	        return super.clone();
 	    }
 
 	@Override

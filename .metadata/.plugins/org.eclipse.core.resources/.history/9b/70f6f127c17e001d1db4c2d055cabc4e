@@ -1,6 +1,6 @@
 package stream;
 
-public class Person implements Cloneable {
+public class Person {
 	
 	public Person(int id, int age, String name, String email) {
 		super();
@@ -64,15 +64,7 @@ public class Person implements Cloneable {
 		this.id = id;
 	}
 
-	 public Object clone()
-	    {
-		 try {
-			 return super.clone();
-		 } catch(CloneNotSupportedException e) {
-			 return this;
-		 }
-	        
-	    }
+
 
 	@Override
 	public String toString() {

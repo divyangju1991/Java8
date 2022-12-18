@@ -69,7 +69,7 @@ public class Person implements Cloneable {
 		 try {
 			 return super.clone();
 		 } catch(CloneNotSupportedException e) {
-			 return this;
+			 
 		 }
 	        
 	    }

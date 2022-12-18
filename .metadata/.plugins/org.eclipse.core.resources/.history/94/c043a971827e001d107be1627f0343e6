@@ -1,0 +1,40 @@
+package stream;
+
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.PriorityQueue;
+import java.util.stream.Collectors;
+
+public class LimitTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//-[-25,10,20,30,7,17 ]
+		int[] nums = {-25,10,20,30,7,17};
+		PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+        ArrayList<Integer> ans = new ArrayList<>();        
+
+        for(int i=0; i<nums.length; i++){
+            pq.offer(list.get(i));
+
+            if(i<2){
+                ans.add(-1);
+            } else{
+                int a = pq.poll();
+                int b = pq.poll();
+                int c = pq.poll();
+
+                int mul = a * b * c;
+                ans.add(mul);
+                pq.offer(a);
+                pq.offer(b);
+                pq.offer(c);
+            }
+        }
+
+        System.out.println(ans);
+			    		
+	}
+
+}

@@ -1,0 +1,10 @@
+package array.chunks;
+
+public class ArraySplit {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,27 @@
+package stream;
+
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Map.Entry;
+
+public class CustomSortingMap {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Person p1 = new Person(1, 21, "Pooja", "pooja@outlook.com");
+		Person p2 = new Person(1, 31, "Komal", "komal@outlook.com");
+		Person p3 = new Person(1, 41, "Divyang", "divyang@outlook.com");
+		Person p4 = new Person(1, 11, "Krutarth", "krutarth@outlook.com");
+		
+		Map<Integer, Person> map = new HashMap<>();
+		map.put(p1.getId(), p1);
+		map.put(p2.getId(), p2);
+		map.put(p3.getId(), p3);
+		map.put(p4.getId(), p4);
+		Set<Entry<Integer, Person>> entries = map.entrySet()
+		   .sorted(x -> x, Comparator.comparing(Person::getAge));
+	}
+
+}

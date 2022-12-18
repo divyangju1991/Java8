@@ -54,25 +54,6 @@ public class Person {
 
 
 
-	public int getId() {
-		return id;
-	}
-
-
-
-	public void setId(int id) {
-		this.id = id;
-	}
-
-
-
-	@Override
-	public String toString() {
-		return "Person [id=" + id + ", age=" + age + ", name=" + name + ", email=" + email + "]";
-	}
-
-
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 

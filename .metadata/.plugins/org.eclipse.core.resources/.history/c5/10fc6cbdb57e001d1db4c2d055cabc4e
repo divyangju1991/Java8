@@ -4,7 +4,6 @@ public class Person {
 	
 	public Person(int id, int age, String name, String email) {
 		super();
-		this.id = id;
 		this.age = age;
 		this.name = name;
 		this.email = email;
@@ -50,25 +49,6 @@ public class Person {
 
 	public void setEmail(String email) {
 		this.email = email;
-	}
-
-
-
-	public int getId() {
-		return id;
-	}
-
-
-
-	public void setId(int id) {
-		this.id = id;
-	}
-
-
-
-	@Override
-	public String toString() {
-		return "Person [id=" + id + ", age=" + age + ", name=" + name + ", email=" + email + "]";
 	}
 
 

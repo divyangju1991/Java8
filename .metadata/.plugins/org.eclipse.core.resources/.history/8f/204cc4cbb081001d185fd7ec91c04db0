@@ -4,10 +4,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Map.Entry;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.concurrent.ConcurrentHashMap;
@@ -31,17 +29,13 @@ public class CustomSortingMap {
 		System.out.println(map);
 		
 		Map<Person, Integer> map2 = new HashMap();
-		map2.put(p1, p1.getAge());
-		map2.put(p2, p2.getAge());
-		map2.put(p3, p3.getAge());
-		map2.put(p4, p4.getAge());
+		map2.put(p1, p1.getId());
+		map2.put(p2, p2.getId());
+		map2.put(p3, p3.getId());
+		map2.put(p4, p4.getId());
 		System.out.println(map2);
 		
-		Map<Person, Integer> map3 = map2.entrySet()
-									    .stream()
-									    .sorted(Entry.<Person, Integer>comparingByValue())
-									    .collect(Collectors.toMap(Entry::getKey, Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
-		System.out.println("map3 : " +map3);
+		
 		
 		List<Person> persons = new ArrayList<>();
 		persons.add(p1);

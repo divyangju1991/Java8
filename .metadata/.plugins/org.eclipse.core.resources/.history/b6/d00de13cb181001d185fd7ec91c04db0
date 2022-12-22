@@ -41,7 +41,7 @@ public class CustomSortingMap {
 									    .stream()
 									    .sorted(Entry.<Person, Integer>comparingByValue())
 									    .collect(Collectors.toMap(Entry::getKey, Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
-		System.out.println("map3 : " +map3);
+		System.out.println(map3);
 		
 		List<Person> persons = new ArrayList<>();
 		persons.add(p1);

@@ -1,0 +1,17 @@
+package distinct;
+
+public class DistinctChar {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str = "Umbrella";
+		String ans = str.chars()
+					  .mapToObj(x -> (char) x)
+					  .distinct()
+					  .map(s -> s.toString())
+					  .reduce("", String::concat);
+		
+		System.out.println(ans);
+	}
+
+}

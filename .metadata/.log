@@ -1,4 +1,4 @@
-!SESSION 2022-12-22 06:50:05.236 -----------------------------------------------
+!SESSION 2022-12-24 07:43:39.816 -----------------------------------------------
 eclipse.buildId=4.6.3.M20170301-0400
 java.version=1.8.0_291
 java.vendor=Oracle Corporation
@@ -7,9 +7,9 @@ Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
 This is a continuation of log file C:\Users\divya\OneDrive\Documents\GitHub\Java8\.metadata\.bak_0.log
-Created Time: 2022-12-22 06:55:22.572
+Created Time: 2022-12-24 08:29:23.904
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:55:22.573
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:29:23.905
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -107,7 +107,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:55:22.573
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:29:23.905
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -157,7 +157,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:55:23.537
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:29:25.457
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -255,7 +255,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:55:23.537
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:29:25.457
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -305,7 +305,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:55:24.604
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:31:07.581
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -403,7 +403,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:55:24.604
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:31:07.581
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -453,7 +453,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:55:49.478
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:31:07.668
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -551,7 +551,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:55:49.479
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:31:07.668
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -601,7 +601,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:56:06.809
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:31:08.030
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -699,7 +699,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:56:06.810
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:31:08.030
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -749,7 +749,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:56:11.040
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:31:19.628
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -847,7 +847,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:56:11.040
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:31:19.628
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -897,7 +897,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:56:17.053
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:31:22.701
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -995,7 +995,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:56:17.054
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:31:22.702
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1045,7 +1045,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:56:20.373
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:31:22.808
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1143,7 +1143,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:56:20.373
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:31:22.808
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1193,7 +1193,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:56:30.729
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:31:27.071
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1291,7 +1291,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:56:30.729
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:31:27.071
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1341,7 +1341,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:56:32.468
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:31:53.016
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1439,7 +1439,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:56:32.468
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:31:53.016
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1489,7 +1489,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:56:35.869
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:31:56.328
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1587,7 +1587,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:56:35.870
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:31:56.329
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1637,7 +1637,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:56:36.200
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:32:00.047
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1735,7 +1735,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:56:36.201
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:32:00.048
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1785,7 +1785,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:56:52.425
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:32:11.672
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1883,7 +1883,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:56:52.426
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:32:11.674
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -1933,7 +1933,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:56:53.166
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:32:11.899
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -2031,7 +2031,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:56:53.167
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:32:11.900
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -2081,7 +2081,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 06:56:59.502
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:32:12.034
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -2179,7 +2179,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 06:56:59.503
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:32:12.034
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -2229,14 +2229,458 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 07:00:34.356
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:32:12.364
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
 	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
 	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
+	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
+	at sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
+	... 9 more
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
+	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
+	at sun.security.validator.Validator.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
+	... 28 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
+	at java.security.cert.CertPathBuilder.build(Unknown Source)
+	... 34 more
+Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
+	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
+	at sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
+	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
+	at sun.security.validator.Validator.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
+	... 28 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
+	at java.security.cert.CertPathBuilder.build(Unknown Source)
+	... 34 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:32:12.364
+!MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+!STACK 0
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
+	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
+	at sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
+	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
+	at sun.security.validator.Validator.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
+	... 28 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
+	at java.security.cert.CertPathBuilder.build(Unknown Source)
+	... 34 more
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:33:09.023
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
+	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
+	at sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
+	... 9 more
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
+	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
+	at sun.security.validator.Validator.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
+	... 28 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
+	at java.security.cert.CertPathBuilder.build(Unknown Source)
+	... 34 more
+Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
+	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
+	at sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
+	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
+	at sun.security.validator.Validator.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
+	... 28 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
+	at java.security.cert.CertPathBuilder.build(Unknown Source)
+	... 34 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:33:09.024
+!MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+!STACK 0
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
+	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
+	at sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
+	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
+	at sun.security.validator.Validator.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
+	... 28 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
+	at java.security.cert.CertPathBuilder.build(Unknown Source)
+	... 34 more
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:33:12.918
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
+	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
+	at sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
+	... 9 more
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
+	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
+	at sun.security.validator.Validator.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
+	... 28 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
+	at java.security.cert.CertPathBuilder.build(Unknown Source)
+	... 34 more
+Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
+	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
+	at sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
+	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
+	at sun.security.validator.Validator.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
+	... 28 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
+	at java.security.cert.CertPathBuilder.build(Unknown Source)
+	... 34 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:33:12.919
+!MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+!STACK 0
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alert.createSSLException(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.TransportContext.fatal(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
+	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
+	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
+	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
+	at sun.security.ssl.SSLTransport.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
+	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
+	at sun.security.validator.Validator.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
+	... 28 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
+	at java.security.cert.CertPathBuilder.build(Unknown Source)
+	... 34 more
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:34:02.454
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
+	at org.eclipse.jdt.internal.core.PackageFragment.getAttachedJavadoc(PackageFragment.java:494)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:2072)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:526)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
@@ -2306,9 +2750,9 @@ Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.Validator
 	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
 	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.core.PackageFragment.getAttachedJavadoc(PackageFragment.java:494)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:2072)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:526)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
@@ -2329,7 +2773,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 35 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 07:00:34.357
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:34:02.455
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -2356,9 +2800,9 @@ javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: 
 	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
 	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.core.PackageFragment.getAttachedJavadoc(PackageFragment.java:494)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:2072)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:526)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
@@ -2380,158 +2824,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 35 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 07:00:40.549
-!MESSAGE Internal Error
-!STACK 1
-Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
-	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	... 10 more
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 29 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 35 more
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
-	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 29 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 35 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 07:00:40.550
-!MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-!STACK 0
-javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
-	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 29 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 35 more
-
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 07:00:43.237
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:36:37.854
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -2629,7 +2922,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 07:00:43.237
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:36:37.854
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -2679,21 +2972,20 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 07:00:57.950
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 08:36:38.235
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
 	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
 	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
-	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
 Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.ssl.Alert.createSSLException(Unknown Source)
 	at sun.security.ssl.TransportContext.fatal(Unknown Source)
@@ -2718,7 +3010,7 @@ Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.Validator
 	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
 	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	... 10 more
+	... 9 more
 Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
 	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
@@ -2726,12 +3018,12 @@ Caused by: sun.security.validator.ValidatorException: PKIX path building failed:
 	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 29 more
+	... 28 more
 Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 35 more
+	... 34 more
 Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.ssl.Alert.createSSLException(Unknown Source)
 	at sun.security.ssl.TransportContext.fatal(Unknown Source)
@@ -2757,15 +3049,14 @@ Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.Validator
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
 	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
 	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
 	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
-	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
 Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
 	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
@@ -2773,13 +3064,13 @@ Caused by: sun.security.validator.ValidatorException: PKIX path building failed:
 	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 29 more
+	... 28 more
 Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 35 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 07:00:57.950
+	... 34 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 08:36:38.235
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -2807,15 +3098,14 @@ javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: 
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
 	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
 	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
 	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
-	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
 Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
 	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
@@ -2823,14 +3113,14 @@ Caused by: sun.security.validator.ValidatorException: PKIX path building failed:
 	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 29 more
+	... 28 more
 Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 35 more
+	... 34 more
 
-!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2022-12-22 07:37:05.598
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2022-12-24 08:43:14.482
 !MESSAGE Connection to http://download.eclipse.org/releases/neon/p2.index failed on sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target. Retry attempt 0 started
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -2882,7 +3172,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 36 more
 
-!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2022-12-22 07:37:10.472
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2022-12-24 08:43:20.875
 !MESSAGE Unable to read repository at http://download.eclipse.org/releases/neon/compositeContent.xml.
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -2928,7 +3218,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 30 more
 
-!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2022-12-22 07:37:11.940
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2022-12-24 08:43:22.439
 !MESSAGE Connection to http://download.eclipse.org/eclipse/updates/4.6/p2.index failed on sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target. Retry attempt 0 started
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -2980,7 +3270,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 36 more
 
-!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2022-12-22 07:37:16.770
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2022-12-24 08:43:27.345
 !MESSAGE Unable to read repository at http://download.eclipse.org/eclipse/updates/4.6/compositeContent.xml.
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3026,7 +3316,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 30 more
 
-!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2022-12-22 07:37:18.335
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2022-12-24 08:43:28.940
 !MESSAGE Connection to http://download.eclipse.org/webtools/repository/neon/p2.index failed on sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target. Retry attempt 0 started
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3078,7 +3368,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 36 more
 
-!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2022-12-22 07:37:23.233
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2022-12-24 08:43:33.871
 !MESSAGE Unable to read repository at http://download.eclipse.org/webtools/repository/neon/compositeContent.xml.
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3124,158 +3414,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 30 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:49:33.861
-!MESSAGE Internal Error
-!STACK 1
-Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
-	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	... 10 more
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 29 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 35 more
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
-	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 29 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 35 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:49:33.862
-!MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-!STACK 0
-javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
-	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
-	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
-	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 29 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 35 more
-
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:51:57.357
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 09:05:58.680
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3373,7 +3512,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:51:57.358
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 09:05:58.680
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3423,7 +3562,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:51:59.801
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 09:05:58.947
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3521,7 +3660,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:51:59.801
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 09:05:58.947
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3571,7 +3710,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:52:05.753
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 09:06:08.562
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3669,7 +3808,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:52:05.754
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 09:06:08.562
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3719,7 +3858,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:52:06.223
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 09:06:09.652
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3817,7 +3956,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:52:06.224
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 09:06:09.652
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3867,7 +4006,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
 
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:52:06.323
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-24 09:06:09.886
 !MESSAGE Internal Error
 !STACK 1
 Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
@@ -3965,895 +4104,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
 	at java.security.cert.CertPathBuilder.build(Unknown Source)
 	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:52:06.323
-!MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-!STACK 0
-javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:52:10.669
-!MESSAGE Internal Error
-!STACK 1
-Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	... 9 more
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:52:10.670
-!MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-!STACK 0
-javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:52:14.496
-!MESSAGE Internal Error
-!STACK 1
-Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	... 9 more
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:52:14.497
-!MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-!STACK 0
-javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:52:14.725
-!MESSAGE Internal Error
-!STACK 1
-Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	... 9 more
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:52:14.725
-!MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-!STACK 0
-javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:56:32.859
-!MESSAGE Internal Error
-!STACK 1
-Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	... 9 more
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:56:32.859
-!MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-!STACK 0
-javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:56:52.746
-!MESSAGE Internal Error
-!STACK 1
-Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	... 9 more
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:56:52.746
-!MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-!STACK 0
-javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-
-!ENTRY org.eclipse.jdt.ui 4 10001 2022-12-22 09:56:54.499
-!MESSAGE Internal Error
-!STACK 1
-Java Model Exception: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:928)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	... 9 more
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.TransportContext.fatal(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(Unknown Source)
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(Unknown Source)
-	at sun.security.ssl.SSLHandshake.consume(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.HandshakeContext.dispatch(Unknown Source)
-	at sun.security.ssl.TransportContext.dispatch(Unknown Source)
-	at sun.security.ssl.SSLTransport.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.decode(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source)
-	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:848)
-	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1039)
-	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
-	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
-	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
-	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
-	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(Unknown Source)
-	at sun.security.validator.PKIXValidator.engineValidate(Unknown Source)
-	at sun.security.validator.Validator.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.validate(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source)
-	... 28 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(Unknown Source)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(Unknown Source)
-	at java.security.cert.CertPathBuilder.build(Unknown Source)
-	... 34 more
-!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-22 09:56:54.499
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2022-12-24 09:06:09.886
 !MESSAGE sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 !STACK 0
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target

@@ -1,0 +1,11 @@
+package xor;
+
+public class NonDuplicate {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] arr = {1,1,2,2,3,3,4,4,5,5,7,7,9};
+	}
+
+}

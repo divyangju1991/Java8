@@ -1,0 +1,24 @@
+package groupingBy;
+
+public class SecondHeighestSalary {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Employee e1 = new Employee();
+		e1.setName("Divyang");
+		e1.setSalary(25000.25);
+		
+		Employee e2 = new Employee();
+		e2.setName("Divyang");
+		e2.setSalary(25000.25);
+		
+		Employee e3 = new Employee();
+		e3.setName("Divyang");
+		e3.setSalary(25000.25);
+		
+		Employee e4 = new Employee();
+		e4.setName("Divyang");
+		e4.setSalary(25000.25);
+	}
+
+}

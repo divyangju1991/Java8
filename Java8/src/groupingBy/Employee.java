@@ -12,6 +12,8 @@ public class Employee {
 	private String name;
 	
 	private int age;
+	
+	private double salary;
 
 	public int getId() {
 		return id;
@@ -36,10 +38,21 @@ public class Employee {
 	public void setAge(int age) {
 		this.age = age;
 	}
+	
+	
 
+	public double getSalary() {
+		return salary;
+	}
+
+	public void setSalary(double salary) {
+		this.salary = salary;
+	}
+
+	
 	@Override
 	public String toString() {
-		return "Employee [id=" + id + ", name=" + name + ", age=" + age + "]";
+		return "Employee [id=" + id + ", name=" + name + ", age=" + age + ", salary=" + salary + "]";
 	}
 
 	@Override

@@ -1,0 +1,6 @@
+package trickyoutput;
+
+public class ImplSolution implements I1, I2 {
+
+	
+}

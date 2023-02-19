@@ -1,0 +1,6 @@
+package trickyoutput;
+
+
+public class Impl implements I1, I2 {
+
+}

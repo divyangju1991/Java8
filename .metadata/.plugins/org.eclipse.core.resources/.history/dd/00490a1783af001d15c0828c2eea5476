@@ -1,9 +1,0 @@
-package trickyoutput;
-
-public class ImplSolution implements I1, I2 {
-
-	@Override
-	public String check(){
-		return "I1";
-	}
-}

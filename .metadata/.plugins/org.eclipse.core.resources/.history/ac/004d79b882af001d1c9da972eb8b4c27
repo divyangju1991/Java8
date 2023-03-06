@@ -1,6 +1,0 @@
-package trickyoutput;
-
-//Compilation error with duplicate method
-public class Impl implements I1, I2 {
-
-}

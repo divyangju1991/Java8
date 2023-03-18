@@ -5280,9 +5280,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 !ENTRY org.eclipse.jface.text 2 0 2023-02-18 17:24:29.004
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 !SESSION 2023-03-06 19:43:58.342 -----------------------------------------------
 eclipse.buildId=4.6.3.M20170301-0400
 java.version=1.8.0_202
+=======
+!SESSION 2023-02-20 10:25:28.226 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_291
+>>>>>>> Stashed changes
 =======
 !SESSION 2023-02-20 10:25:28.226 -----------------------------------------------
 eclipse.buildId=4.6.3.M20170301-0400
@@ -5294,10 +5300,13 @@ Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 !ENTRY org.eclipse.egit.ui 2 0 2023-03-06 19:44:10.172
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\upajayes'. If this is
 =======
+=======
+>>>>>>> Stashed changes
 !ENTRY org.eclipse.oomph.setup.editor 4 0 2023-02-20 10:25:29.581
 !MESSAGE FrameworkEvent ERROR
 !STACK 0
@@ -5492,13 +5501,20 @@ org.osgi.framework.BundleException: Could not resolve module: org.eclipse.oomph.
 !ENTRY org.eclipse.egit.ui 2 0 2023-02-21 12:50:20.310
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\divya'. If this is
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 !ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2023-03-06 19:44:14.173
+=======
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2023-02-21 12:50:24.883
+>>>>>>> Stashed changes
 =======
 !ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2023-02-21 12:50:24.883
 >>>>>>> Stashed changes
@@ -5520,7 +5536,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:165)
 	... 9 more
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 
 !ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2023-02-21 12:56:57.372
 !MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.XZedRepository
@@ -5851,4 +5870,7 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 
 !ENTRY org.eclipse.recommenders.models.rcp 1 0 2023-02-22 02:52:58.963
 !MESSAGE org.eclipse.recommenders:index::zip:0.0.0 could not be resolved from the model repositories. Are you offline?
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

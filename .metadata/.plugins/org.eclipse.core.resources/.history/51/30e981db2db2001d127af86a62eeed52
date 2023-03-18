@@ -1,0 +1,13 @@
+package sourceCode;
+
+import java.util.LinkedHashMap;
+
+public class MapSourceNote {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		LinkedHashMap<String, String> map = new HashMap<>();
+		
+	}
+
+}

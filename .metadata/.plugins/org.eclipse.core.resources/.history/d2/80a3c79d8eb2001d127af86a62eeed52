@@ -1,0 +1,25 @@
+package nioPackages;
+
+import java.nio.file.Files;
+
+
+public class FilesTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Path filePath = Paths.get("C:/temp/file.txt")
+				 
+				//try-with-resources
+				try (Stream<String> lines = Files.lines( filePath )) 
+				{
+				  lines.forEach(System.out::println);
+				} 
+				catch (IOException e) 
+				{
+				  e.printStackTrace();
+				}
+
+	}
+
+}

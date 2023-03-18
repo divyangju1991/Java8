@@ -1,0 +1,26 @@
+package designPattern;
+
+public class SingleTone {
+	
+	private static volatile SingleTone instance = null;
+	
+	private SingleTone() {
+		if(instance != null){
+			throw new RuntimeException("");
+		}
+	}
+	
+	public static SingleTone getInstance(){
+		
+		if(instance == null){
+			synchronized(SingleTone.class){
+				if(instance == null){
+					instance = new SingleTone();
+				}
+			}
+		}
+		
+		return instance;
+	}
+
+}

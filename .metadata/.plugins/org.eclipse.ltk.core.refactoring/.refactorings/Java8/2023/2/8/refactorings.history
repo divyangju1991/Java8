@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Java8/src/nioPackages/file.txt&apos; to &apos;file2.txt&apos;" description="Rename resource &apos;file.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/nioPackages/file.txt" name="file2.txt" stamp="1677058064054" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Java8/src/nioPackages/file2.txt&apos; to &apos;file.txt&apos;" description="Rename resource &apos;file2.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/nioPackages/file2.txt" name="file.txt" stamp="1677058110739" updateReferences="true"/>
+</session>

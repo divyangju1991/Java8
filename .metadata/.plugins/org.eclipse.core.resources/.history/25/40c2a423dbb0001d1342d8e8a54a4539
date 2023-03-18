@@ -1,0 +1,13 @@
+package designPattern;
+
+public class SingleTone {
+	
+	private static volatile SingleTone instance = null;
+	
+	private SingleTone(){
+		if(instance != null){
+			throw new Exception("");
+		}
+	}
+
+}

@@ -19,7 +19,7 @@ public class CustomSortingMap {
 		// TODO Auto-generated method stub
 		Person p1 = new Person(1, 21, "Pooja", "pooja@outlook.com");
 		Person p2 = new Person(1, 31, "Komal", "komal@outlook.com");
-		Person p3 = new Person(1, 41, "Divyang", "divyang@outlook.com");
+		Person p3 = new Person(4, 41, "Divyang", "divyang@outlook.com");
 		Person p4 = new Person(1, 11, "Krutarth", "krutarth@outlook.com");
 		
 		Map<Person, Integer> map = new TreeMap(Comparator.comparing(Person::getEmail));
@@ -29,6 +29,9 @@ public class CustomSortingMap {
 		map.put(p4, p4.getId());
 		
 		System.out.println(map);
+		
+		System.out.println("map.get => "+map.get(new Person(1, 21, "Pooja", "pooja@outlook.com")));
+		System.out.println("map.get => "+map.get(new Person(4, 41, "Divyang", "divyang@outlook.com")));
 		
 		Map<Person, Integer> map2 = new HashMap();
 		map2.put(p1, p1.getAge());

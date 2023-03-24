@@ -10,13 +10,7 @@ public class HitCounter {
 	public static Map<String, List<Long>> urlHitMap = new ConcurrentHashMap<>();
 	
 	public void record(String url, long timestamp){
-		if(urlHitMap.get(url) != null){
-			 urlHitMap.get(url).add(timestamp);
-		} else {
-			List<Long> list = new ArrayList<>();
-			list.add(timestamp);
-			urlHitMap.put(url, list);
-		}
+		urlHitMap.getOrDefault(url, new ArrayList<>()).add(timestamp);
 	}
 	
 	public int total(String url){

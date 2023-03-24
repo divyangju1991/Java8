@@ -1,9 +1,0 @@
-package designPattern;
-
-public class SingleTone {
-	
-	private static volatile SingleTone instance = null;
-	
-	
-
-}

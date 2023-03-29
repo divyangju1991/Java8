@@ -2,6 +2,7 @@ package forEach;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class ListForEach {
 
@@ -10,9 +11,12 @@ public class ListForEach {
 
 		List<Integer> list = Arrays.asList(1,2,3,4);
 		list.forEach((num) -> {
+			num = 10;
 			System.out.println("num : "+num);
 		});
 		list.forEach(System.out::println);
+		List<Integer> newList = list.stream().map(num -> num = 10).collect(Collectors.toList());
+		newList.forEach(System.out::println);
 	}
 
 }
